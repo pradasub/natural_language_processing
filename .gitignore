@@ -1,0 +1,11 @@
+*.csv
+*.xlsx
+*.txt
+*.parquet
+*.pdf
+
+__pycache__/
+
+.ipynb_checkpoints/
+
+*.p
