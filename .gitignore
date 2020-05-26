@@ -4,8 +4,7 @@
 *.parquet
 *.pdf
 *.xls
-*.accd
-*.prada
+*.accdb
 
 __pycache__/
 
