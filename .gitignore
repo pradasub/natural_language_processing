@@ -5,6 +5,7 @@
 *.pdf
 *.xls
 *.accdb
+*.prada
 
 __pycache__/
 
