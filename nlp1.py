@@ -1,4 +1,6 @@
+# check PyPDF2
 import PyPDF2
+
 myfile = open('./data/US_Declaration.pdf', mode='rb')
 
 pdf_reader = PyPDF2.PdfFileReader(myfile,strict=False)
