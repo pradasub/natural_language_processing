@@ -3,6 +3,7 @@
 *.txt
 *.parquet
 *.pdf
+*.xls
 
 __pycache__/
 
